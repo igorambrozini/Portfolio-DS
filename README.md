@@ -1,3 +1,0 @@
-# DataScience
-
-Editing DataScience
