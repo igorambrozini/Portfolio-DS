@@ -208,6 +208,8 @@ estudante
 
 #2)- Acrescente 'História' à lista de cursos.
 
-estudante.get('cursos')
+temp=estudante['cursos']
+print(temp)
+estudante.update('cursos'
 estudante
 
