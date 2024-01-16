@@ -1,4 +1,4 @@
-Hi 👋, I'm migrating from Data Analyst to Data Scientist.
+Hi 👋, I'm Igor Ambrozini, migrating from Data Analyst to Data Scientist.
 
 
 
