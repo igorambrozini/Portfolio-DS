@@ -11,7 +11,7 @@ Hi 👋, I'm migrating from Data Analyst to Data Scientist.
 :chart_with_upwards_trend: I am currently learning Python, Machine Learning, SQL, Power BI.
 
 
-📫You can find me via email at dmhubdigital@gmail.com
+📫You can find me via email at igorwebd@gmail.com
 
 
 :information_source: Connect with me:
