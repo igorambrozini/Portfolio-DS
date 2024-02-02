@@ -1,4 +1,4 @@
-### These are some Cloud Projects i've worked.
+### These are some Projects i've worked.
 
 For the last 5 years I have been technically representing a predictive maintenance technology developed in Europe with the support of a European team. The technology works by collecting electrical signals to predict failures of motors, transformers, solar panels and wind turbines. The system generates a large amount of data, which allows us to work on creating other solutions and generating new insights for customer maintenance teams. I am responsible for the project, from the production of equipment abroad to data analysis and practical application to anticipate problems in the field. I'm currently testing Machine Learning models to extract more insights with feedback from maintenance teams.
 I also took courses, freelanced and participated in several bootcamps where I had the opportunity to work with other tools, such as:
