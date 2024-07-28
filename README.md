@@ -1,7 +1,7 @@
 ### These are some Projects i've worked (Portfolio in construction):
 
 ### 1) Data Science projects:
-> #Project 1.1: Time Series Forecasting with XGBoost - Using python and machine learning to predict energy consumption [link](https://github.com/igorambrozini/Portfolio/tree/35dfa23609e9e88fddf1fd54bc0d1e3f1720004d/Project_1.1.Time%20Series%20Forecasting%20with%20XGBoost); 
+> #Project 1.1: Time Series Forecasting with XGBoost - Using python and machine learning to predict energy consumption [link](https://github.com/igorambrozini/Portfolio/tree/35dfa23609e9e88fddf1fd54bc0d1e3f1720004d/Project_1.1.Time%20Series%20Forecasting%20with%20XGBoost);  
 > #Project 1.2: Rain Forecast with Keras_TensorFlow: Australia Rains Classification [link](https://github.com/igorambrozini/Portfolio/tree/7ab34feb02cc57296ff881831de59c07cde80059/Project_1.2.Rain%20Forecast%20with%20Keras_TensorFlow);
 
 ### 2) Python projects:
